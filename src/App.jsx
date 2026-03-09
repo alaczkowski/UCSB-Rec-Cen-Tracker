@@ -11,7 +11,7 @@ import {
   Cell,
 } from 'recharts'
 
-const siteUrl = 'https://your-vercel-link-here.vercel.app'
+const siteUrl = 'https://ucsb-rec-cen-tracker.vercel.app'
 
 const hourlyData = [
   { time: '6 AM', level: 10 },
